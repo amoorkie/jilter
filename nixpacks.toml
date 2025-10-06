@@ -1,0 +1,12 @@
+[phases.setup]
+nixPkgs = ["python3", "pip", "chromium"]
+
+[phases.install]
+cmds = [
+  "pip install requests beautifulsoup4 playwright better-sqlite3",
+  "playwright install chromium"
+]
+
+[start]
+cmd = "npm start"
+

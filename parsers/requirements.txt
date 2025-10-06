@@ -1,0 +1,33 @@
+# Зависимости для Geekjob Parser
+# Версия: 1.0.0
+# Дата: 2025-01-02
+
+# HTTP запросы
+requests>=2.31.0
+
+# Парсинг HTML
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Работа с данными (встроенные в Python)
+# sqlite3 - встроен в Python
+# json - встроен в Python
+# csv - встроен в Python
+# datetime - встроен в Python
+# urllib - встроен в Python
+# logging - встроен в Python
+# argparse - встроен в Python
+# time - встроен в Python
+# os - встроен в Python
+# sys - встроен в Python
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+{
+  "request_delays": {
+    "min": 2.0,
+    "max": 5.0,
+    "jitter": 1.0
+  },
+  "proxy_rotation": {
+    "enabled": true,
+    "rotation_interval": 5,
+    "health_check_interval": 60
+  },
+  "user_agent_rotation": {
+    "enabled": true,
+    "rotation_interval": 3
+  },
+  "session_management": {
+    "enabled": true,
+    "session_lifetime": 3600,
+    "max_requests_per_session": 30
+  },
+  "captcha_handling": {
+    "enabled": true,
+    "max_attempts": 3,
+    "cooldown_period": 600
+  },
+  "browser_automation": {
+    "enabled": true,
+    "headless": true,
+    "timeout": 30000
+  }
+}
+
+
+
+
+
+
+
+

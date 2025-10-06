@@ -1,0 +1,7 @@
+# Telegram Bot Token (для парсинга Telegram каналов)
+TELEGRAM_BOT_TOKEN=7546926574:AAF0ZBOkYE6fgYupINu10Srnz0u6Nk6vLhY
+
+# GigaChat API (для AI-анализа вакансий)
+# Получить можно на: https://developers.sber.ru/
+# Авторизационный ключ (Base64 от Client ID:Client Secret)
+GIGACHAT_AUTHORIZATION_KEY=ваш_авторизационный_ключ_base64

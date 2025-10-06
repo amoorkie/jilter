@@ -1,0 +1,23 @@
+# Файл с прокси для обхода блокировок
+# Формат: host:port:username:password
+# Или просто: host:port
+
+# Примеры (закомментированы, так как это тестовые данные):
+# proxy1.example.com:8080:user:pass
+# proxy2.example.com:3128
+# 192.168.1.100:8080
+
+# Для продакшена добавьте реальные прокси:
+# - HTTP/HTTPS прокси
+# - SOCKS5 прокси
+# - Ротационные прокси
+# - Резидентные прокси
+
+# Рекомендуемые провайдеры:
+# - Bright Data (Luminati)
+# - Oxylabs
+# - Smartproxy
+# - ProxyMesh
+# - IPRoyal
+
+

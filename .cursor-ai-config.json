@@ -1,0 +1,39 @@
+{
+  "project": {
+    "name": "Job Filter MVP",
+    "description": "Next.js приложение для парсинга и фильтрации вакансий дизайнеров с AI-анализом",
+    "tech_stack": ["Next.js", "TypeScript", "SQLite", "Playwright", "OpenAI", "Tailwind CSS"]
+  },
+  "ai_assistant": {
+    "role": "Senior Full-Stack Developer",
+    "specialization": "Next.js, TypeScript, AI Integration, Web Scraping",
+    "language": "Russian",
+    "code_style": "Modern ES6+, Functional Components, TypeScript Strict"
+  },
+  "context": {
+    "current_focus": "AI-анализ вакансий с OpenAI Codex",
+    "recent_changes": "Интеграция Codex для структурирования описаний вакансий",
+    "next_goals": "Оптимизация AI-анализа, улучшение админ панели"
+  },
+  "preferences": {
+    "explain_code": true,
+    "suggest_improvements": true,
+    "auto_fix_errors": true,
+    "generate_tests": false,
+    "optimize_performance": true
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
